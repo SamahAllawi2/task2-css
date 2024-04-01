@@ -1,0 +1,20 @@
+body{
+    
+}
+#servise{
+  
+    text-align: center;
+    
+    display: inline;
+}
+p{
+    color:rgb(81, 84, 90);
+}
+.servise_one{
+    display: inline-block;
+    width: 24%;
+    
+}
+i{
+    color: chocolate;
+}
